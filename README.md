@@ -46,4 +46,7 @@ Tahta kapandıktan sonra kilit eski haline döneceği için yakalanma ihtimalini
   
 ![Logo](https://i.hizliresim.com/kvzl0j8.jpg)
 
-    
+ <p align="center"> 
+      Toplam Görüntülenme<br>
+  <img src="https://profile-counter.glitch.me/TalhaDevv/count.svg" />
+</p>   
